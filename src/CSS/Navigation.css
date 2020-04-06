@@ -1,0 +1,49 @@
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  background: url('../img/starfall.jpg');
+  background-size: contain;
+  background-position: top;
+  background: cover;
+  align-items: center;
+  padding-left: 8px;
+  height: 90vh;
+  color: burlywood;
+}
+
+.text {
+  text-align: center;
+  font-size: 32pt;
+  line-height: 36pt;
+
+  margin-left: 500px;
+  margin-bottom: 30px;
+  font-family: Raleway;
+}
+
+.highlight {
+  color: #fff;
+  font-family: Raleway-semibold;
+}
+
+.btn-page-link {
+  display: inline-block;
+  text-align: center;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  font-size: large;
+  font-family: Raleway;
+  border: 2px solid #fff;
+  margin-left: 500px;
+  border-color: cornsilk;
+  padding: 12px 20px 12px 20px;
+  position: relative;
+}
+
+.mdi {
+  font: normal normal normal 24px/1 'Material Design Icons';
+}
+
+.image-work {
+  height: 15px;
+  margin-left: 10px;
+}
