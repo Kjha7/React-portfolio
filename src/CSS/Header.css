@@ -1,10 +1,11 @@
-.header-body {
-  margin-top: 10px;
-  background: #1b242f;
-}
-
 .page-link {
   float: left;
-
+  background: #1b242f;
   width: 25%;
+  color: #deb887;
+  height: 40px;
+  align-items: center;
+  font-family: Raleway;
+  font-size: large;
+  padding-top: 15px;
 }

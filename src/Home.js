@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import './CSS/Navigation.css';
+import './CSS/Home.css';
 
 class Navigation extends Component {
   render() {
