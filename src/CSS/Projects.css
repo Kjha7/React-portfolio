@@ -1,0 +1,37 @@
+.proj-body {
+  background-color: #f5f5f5;
+}
+.proj-header {
+  text-align: center;
+  color: #444649;
+  font-family: 'raleway-bold';
+  font-size: 40px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+.image-line {
+  width: 25%;
+}
+
+.bullet-icon {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  height: 100px;
+}
+
+h5 {
+  font-family: Roboto;
+}
+
+.git-link {
+  display: inline-block;
+  text-align: center;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  font-size: large;
+  font-family: Raleway;
+  border: 2px solid #fff;
+  border-color: darkmagenta;
+  padding: 8px 8px 8px 8px;
+  margin-bottom: 20px;
+}

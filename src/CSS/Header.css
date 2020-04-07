@@ -1,7 +1,7 @@
 .page-link {
   float: left;
   background-color: #1b242f;
-  background: #1b242f;
+  background: #1b242f !important;
   width: 25%;
   color: wheat;
   height: 40px;

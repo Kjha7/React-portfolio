@@ -1,0 +1,16 @@
+.footer-body {
+  background: #1b242f;
+}
+
+.media-icon {
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.copyright {
+  color: #e31b6d;
+  font-family: 'Open Sans';
+  padding-left: 30px;
+  padding-top: 10px;
+}
