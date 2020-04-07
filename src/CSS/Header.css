@@ -1,11 +1,13 @@
 .page-link {
   float: left;
+  background-color: #1b242f;
   background: #1b242f;
   width: 25%;
-  color: #deb887;
+  color: wheat;
   height: 40px;
   align-items: center;
   font-family: Raleway;
   font-size: large;
   padding-top: 15px;
+  border: 3px;
 }

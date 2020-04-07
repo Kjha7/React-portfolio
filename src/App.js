@@ -4,6 +4,7 @@ import './App.css';
 import Home from './Home';
 import Header from './Header';
 import About from './About';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

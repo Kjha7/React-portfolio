@@ -10,10 +10,10 @@ class Header extends Component {
           Home
         </div>
         <div className="page-link" dest="about">
-          About
+          Skills
         </div>
         <div className="page-link" dest="portfolio">
-          Portfolio
+          Project
         </div>
         <div className="page-link" dest="contact">
           Contact

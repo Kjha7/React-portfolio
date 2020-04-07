@@ -10,7 +10,7 @@ class Navigation extends Component {
           <div className="text">
             Hello, I'm
             <span className="highlight"> Kirti Jha</span>. <br />
-            I'm a full-stack web developer.
+            I'm a software developer.
           </div>
           <div className="btn-page-link">
             View my work
